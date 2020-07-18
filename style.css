@@ -2,7 +2,7 @@
 
  @font-face {
   font-family: 'BurbankBigCondensed-Black';
-  src: url("../fonts/BurbankBigCondensed-Bold.otf");
+  src: url("https://www.freefire2020.com/fonts/BurbankBigCondensed-Bold.otf");
  }
 
 a {
@@ -38,12 +38,12 @@ a:focus {
 }
 
 .section-content {
-    background: top url(../img/section-1.jpg) no-repeat;
+    background: top url(https://l.top4top.io/p_1660ro4hg1.jpg) no-repeat;
     background-size: cover;
 }
 
 .section-generator {
-    background: top url(../img/section-2.jpg) no-repeat;
+    background: top url(https://h.top4top.io/p_1660u1ehm1.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -170,7 +170,7 @@ h1 {
 }
 
 .image-bg-fluid-height {
-	background: url('../img/bg.jpg') no-repeat center center scroll;
+	background: url('https://e.top4top.io/p_16601qe6g1.jpg') no-repeat center center scroll;
     background-size: cover;
     padding: 100px 0;
     padding-left: 20px;
